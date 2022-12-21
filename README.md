@@ -303,7 +303,7 @@ Let's confirm the continent was added to the hashman (at least temporarily until
 
 Do a get request with the new continent's name:
 
-~[get request zealandia](https://curriculum-content.s3.amazonaws.com/6036/java-mod-5-request-body/get_request_zealandia.png)
+![get request zealandia](https://curriculum-content.s3.amazonaws.com/6036/java-mod-5-request-body/get_request_zealandia.png)
 
 
 ## Code Check
